@@ -1,0 +1,90 @@
+/* .general {
+  background-color: rgb(225, 234, 249) ;
+} */
+.nav-left {
+  margin-left: 23rem;
+}
+.logo {
+  height: 60px;
+  width: 70px;
+  font-weight: bold;
+  padding-top: 18px;
+  padding-right: 5px;
+  font-size: 30px;
+  text-align: end;
+  border-radius: 5px;
+}
+.links {
+  font-weight: bold;
+}
+.nav-link {
+  color: black;
+}
+.resume {
+  font-weight: normal;
+  border-radius: 5px;
+}
+.home {
+    margin-left: 92px;
+    font-size: larger;
+}
+.heading{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.heading1{
+  font-weight: bold;
+  font-size: 45px; 
+}
+.heading2{
+  font-weight: bold;
+  font-size: 30px; 
+  text-decoration: underline;
+  text-decoration-color: rgb(13,110,253);
+  text-decoration-thickness: 5px;
+}
+.spacing {
+    margin-top: -0.5em !important;
+}
+.more {
+    padding: 17px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.email {
+  font-weight: bold;
+}
+.input {
+  height: 50px;
+  width: 380px;
+  
+}
+.input1 {
+  height: 150px;
+  width: 450px;
+  border-radius: 4px;
+}
+.msg {
+  border: none;
+  border-radius: 4px;
+  height: 60px;
+  width: 180px;
+  font-weight: bold;
+}
+.skills {
+  font-weight: bold;
+  font-size: 45px;
+  /* margin-left: 250px; */
+}
+.web {
+  max-width: 700px;
+}
+.web-skills {
+  margin-right: 15px;
+  height: 50px;
+  background-color: rgb(216, 215, 215);
+  border: 0;
+  border-radius: 4px;
+}
+
